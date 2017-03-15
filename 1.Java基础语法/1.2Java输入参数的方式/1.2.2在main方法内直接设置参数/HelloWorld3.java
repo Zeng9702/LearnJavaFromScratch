@@ -1,6 +1,6 @@
 /*
 *2017.3.15
-*ÔÚmain·½·¨ÄÚÖ±½ÓÉèÖÃ²ÎÊı
+*åœ¨mainæ–¹æ³•å†…ç›´æ¥è®¾ç½®å‚æ•°
 */
 public class HelloWorld3{
 	public static void main(String args[]){

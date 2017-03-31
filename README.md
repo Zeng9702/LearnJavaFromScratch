@@ -24,8 +24,6 @@
 
 # 2	类与对象 #
 
-## 习题 ##
-
 -	[习题](https://github.com/Zeng9702/LearnJavaFromScratch/tree/master/2.%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/%E4%B9%A0%E9%A2%98/%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1)
 
 # 3  类的封装性 继承性 多态性及接口 #

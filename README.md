@@ -27,3 +27,9 @@
 ## 习题 ##
 
 -	[习题](https://github.com/Zeng9702/LearnJavaFromScratch/tree/master/2.%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/%E4%B9%A0%E9%A2%98/%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1)
+
+## 3  类的封装性 继承性 多态性及接口 ##
+
+# 3.1封装性 #
+
+- [类成员的访问控制方式：protected](https://github.com/Zeng9702/LearnJavaFromScratch/tree/master/3.%E7%B1%BB%E7%9A%84%E5%B0%81%E8%A3%85%E6%80%A7%20%E7%BB%A7%E6%89%BF%E6%80%A7%20%E5%A4%9A%E6%80%81%E6%80%A7%E5%8F%8A%E6%8E%A5%E5%8F%A3/3.1%E5%B0%81%E8%A3%85%E6%80%A7/%E7%B1%BB%E6%88%90%E5%91%98%E7%9A%84%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6%E6%96%B9%E5%BC%8F%EF%BC%9Aprotected)

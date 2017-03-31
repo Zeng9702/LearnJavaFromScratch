@@ -20,13 +20,10 @@
 
 ## 1.3	习题 ##
 
-## 1.3  习题 ##
-
-
 -	[习题](https://github.com/Zeng9702/LearnJavaFromScratch/tree/master/1.Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/1.3%E4%B9%A0%E9%A2%98)
 
 # 2	类与对象 #
 
 ## 习题 ##
 
--	[习题]()
+-	[习题](https://github.com/Zeng9702/LearnJavaFromScratch/tree/master/2.%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/%E4%B9%A0%E9%A2%98/%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1)
